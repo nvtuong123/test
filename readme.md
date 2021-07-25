@@ -1,6 +1,6 @@
 ---
 tags: tutorials
-disqus: hackmd
+disqus: hackmd11
 ---
 
 HackMD Tutorial Book
